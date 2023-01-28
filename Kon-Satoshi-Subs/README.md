@@ -1,8 +1,6 @@
 # Kon-Satoshi-Subs
 Phụ đề Tiếng Việt cho các movie của Kon Satoshi
 
-
-
 ## Movies List
 
 |**Movie**|**Resolution**|**Translation**|**Typesetting**|**Thanks to**|**Note**|
