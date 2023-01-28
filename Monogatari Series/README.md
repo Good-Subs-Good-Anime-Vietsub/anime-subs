@@ -14,7 +14,7 @@ Phụ đề Tiếng Việt cho toàn bộ Series Monogatari
 |**Hanamonogatari**|||Median~Major|MTBB (TS,Timing)|||
 |**Otorimonogatari**|||Median~Major|MTBB (TS,Timing)|||
 |**Onimonogatari**|||Median~Major|MTBB (TS,Timing)|||
-|**Koimonogatari**||||Median~Major|MTBB (TS,Timing)||
+|**Koimonogatari**|||Median~Major|MTBB (TS,Timing)|||
 |**Tsukimonogatari**|||Median~Major|MTBB (TS,Timing)|||
 |**Koyomimonogatari**|||Median~Major|MTBB (TS,Timing)|||
 |**Owarimonogatari S1**|||Median~Major|MTBB (TS,Timing)|||
