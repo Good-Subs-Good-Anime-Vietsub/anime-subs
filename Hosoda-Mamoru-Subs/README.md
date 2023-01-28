@@ -10,4 +10,4 @@ Phụ đề Tiếng Việt cho các movie của Hosoda Mamoru
 |**(2012) Ookami Kodomo no Ame to Yuki**|1920x1080|KiOZ|Minor|||
 |**(2015) Bakemono no Ko**||||||
 |**(2018) Mirai no Mirai**|1920x1038|KiOZ|Minor|||
-|**(2021) Ryuu to Sobakasu no Hime**|1920x804|KiOZ(not check JAP)|Median|||
+|**(2021) Ryuu to Sobakasu no Hime**|1920x804|KiOZ|Median|||
