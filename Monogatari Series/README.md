@@ -3,7 +3,7 @@ Phụ đề Tiếng Việt cho toàn bộ Series Monogatari
 
 ## List
 
-|**Movie**|**Resolution**|**Translation**|**Typesetting**|**Thanks to**|**DDL**|**Note**|
+|**Season**|**Resolution**|**Translation**|**Typesetting**|**Thanks to**|**DDL**|**Note**|
 |--------|--------|--------|--------|--------|--------|--------|
 |**Bakemonogatari**|||Median~Major|MTBB (TS,Timing)|||
 |**Kizumonogatari**|||Median~Major|MTBB (TS,Timing)|||
