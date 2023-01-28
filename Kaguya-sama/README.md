@@ -10,4 +10,4 @@ Phụ đề Tiếng Việt cho Kaguya-sama Series
 |**Season 03**|1920x1080|Tifa/KiOZ|Median~Very Major||[WEBRip](https://anime.kioz.workers.dev/0:/Kaguya-sama/S03/)||
 |**OVA 01**|1920x1080|KiOZ|Median||[WEBRip](https://anime.kioz.workers.dev/0:/Kaguya-sama/OVA%20-%20PV/)||
 |**PV S03**|1920x1080|KiOZ|Major||[WEBRip](https://anime.kioz.workers.dev/0:/Kaguya-sama/OVA%20-%20PV/)||
-|**Movie 01**|Tifa/KiOZ||||||
+|**Movie 01**|1920x1080|Tifa/KiOZ|||||
