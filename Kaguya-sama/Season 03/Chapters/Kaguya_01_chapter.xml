@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionUID>16791307226551933198</EditionUID>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>intro</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>13107343849960071535</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:00:57.120000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Iino Miko muốn được thư giãn</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>1229040581997264649</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:07:01.940000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>eye-catch</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>7256387984958241934</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:07:06.950000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Kaguya-sama không nhận ra</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>6874120560802237090</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:14:20.010000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>eye-catch</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>13979764577319527492</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:14:25.010000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>Fujiwara Chika muốn thi đấu</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>15762433104551500681</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:23:22.420000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>ED but actually OP</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>15842726056491477144</ChapterUID>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterTimeStart>00:24:51.970000000</ChapterTimeStart>
+      <ChapterDisplay>
+        <ChapterString>eye-catch</ChapterString>
+        <ChapterLanguage>und</ChapterLanguage>
+        <ChapLanguageIETF>und</ChapLanguageIETF>
+      </ChapterDisplay>
+      <ChapterUID>15004814758043304638</ChapterUID>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
