@@ -1,4 +1,4 @@
-# Some Good Subtitles for Good Anime | Sub Hay cho Anime Hay
+# Some Good Subtitles for Good Anime
 
 ## Muxing
 Sử dụng tab "Multiplexer" của [MKVToolNix](https://mkvtoolnix.download/) để mux sub và fonts cùng encode hay raw của bạn, nhớ phải cùng độ phân giải để tránh trường hợp phần Typeset bị lệch vị trí.
