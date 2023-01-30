@@ -7,7 +7,7 @@ Phụ đề Tiếng Việt cho các movie của Ghibli/Pre-Ghibli
 |--------|--------|--------|--------|--------|--------|--------|
 |**(1979) Rupan Sansei: Kariosutoro no Shiro**|||||||
 |**(1984) Kaze no Tani no Naushika**|||||||
-|**(1986) Tenkuu no Shiro Laputa**|1920x1080|Chỉnh sửa từ Netflix|Rất Nhẹ|[nedragrevev](https://github.com/nedragrevev) (Timing,Notes)||(đang làm)|
+|**(1986) Tenkuu no Shiro Laputa**|1920x1080|Chỉnh sửa từ Netflix|Rất Nhẹ|[nedragrevev](https://github.com/nedragrevev) (Timing,Notes)||Netflix dịch thô, cũng ổn, nhưng sai những lỗi rất ngớ ngẩn, có vẻ dịch mà ko xem phim, ko theo ngữ cảnh|
 |**(1988) Hotaru no Haka**|||||||
 |**(1988) Tonari no Totoro**|||||||
 |**(1989) Majo no Takkyuubin**|1920x1080|Chỉnh sửa từ Netflix|Nhẹ||||
