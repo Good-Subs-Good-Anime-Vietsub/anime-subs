@@ -3,7 +3,7 @@ Phụ đề Tiếng Việt cho toàn bộ Series Monogatari
 
 ## List
 
-|**Season**|**Resolution**|**Translation**|**Typesetting**|**Thanks to**|**DDL**|**Note**|
+|**Season**|**Resolution**|**Translation**|**Typesetting**|**Thanks to**|**Last Modified**|**Note**|
 |--------|--------|--------|--------|--------|--------|--------|
 |**Bakemonogatari**|||Trung bình~Nặng|[MTBB](https://nyaa.si/view/1582135) (TS,Timing)|||
 |**Kizumonogatari**|||Trung bình~Nặng|[MTBB](https://nyaa.si/view/1582135) (TS,Timing)|||
