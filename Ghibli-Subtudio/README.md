@@ -15,7 +15,7 @@ Phụ đề Tiếng Việt cho các movie của Ghibli/Pre-Ghibli
 |**(1992) Kurenai no Buta**|||||||
 |**(1993)	Umi ga Kikoeru**|||||||
 |**(1994) Heisei Tanuki Gassen Ponpoko**|||||||
-|**(1995) Mimi o Sumaseba**|1920x1038|KiOZ (Chỉnh sửa từ Netflix|Rất Nặng||||
+|**(1995) Mimi o Sumaseba**|1920x1038|KiOZ (Chỉnh sửa từ Netflix)|Rất Nặng||||
 |**(1997) Mononoke Hime**|1920x1080|KiOZ (Chỉnh sửa từ Netflix)|Rất Nhẹ|[moch1oka](https://github.com/moch1oka) (QC)||Nhìn chung Netflix dịch tốt|
 |**(1999) Hōhokekyo Tonari no Yamada-kun**|||||||
 |**(2001) Sen to Chihiro no Kamikakushi**|||||||
