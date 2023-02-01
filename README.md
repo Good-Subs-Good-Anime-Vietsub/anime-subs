@@ -20,6 +20,6 @@ Android:
 - [mpv-android](https://github.com/mpv-android/mpv-android) Là mpv được phát triển dành cho Android.
 
 IOS:
-- [Outplayer](https://outplayer.app/) Sử dụng nên mpv có phiên bản trả phí tuy nhiên bản miễn phí là quá ổn để sử dụng.
+- [Outplayer](https://outplayer.app/) Sử dụng nền mpv có phiên bản trả phí tuy nhiên bản miễn phí là quá ổn để sử dụng.
 
 Ngoài ra đối với Windows, [MPC-HC](https://codecguide.com/download_k-lite_codec_pack_mega.htm) (K-Lite) với [XySubfilter](https://github.com/pinterf/xy-VSFilter/releases) trong cài đặt cũng xem được tốt.
