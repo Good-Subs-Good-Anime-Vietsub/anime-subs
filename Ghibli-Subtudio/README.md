@@ -30,4 +30,4 @@ Phụ đề Tiếng Việt cho các movie của Ghibli/Pre-Ghibli
 |**(2014) Omoide no Marnie**|1920x1080|[KiOZ](https://github.com/realKiOZ) (Chỉnh sửa từ Netflix)|Rất Nặng|||Nhìn chung Netflix dịch tốt|
 
 ## Download link (BDRip Softsub + NVEnc Hardsub)
-https://anime.[KiOZ](https://github.com/realKiOZ).workers.dev/0:/The%20Ghibli%20Collection%20(presented%20by%20[KiOZ](https://github.com/realKiOZ))/
+https://anime.kioz.workers.dev/0:/The%20Ghibli%20Collection%20(presented%20by%20KiOZ)/
