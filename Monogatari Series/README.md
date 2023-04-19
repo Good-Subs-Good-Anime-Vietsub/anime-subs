@@ -1,6 +1,9 @@
 # Series Monogatari Subs
 Phụ đề Tiếng Việt cho toàn bộ Series Monogatari
 
+## Download
+https://anime.kioz.workers.dev/0:/Monogatari%20Series/(2009)%20Bakemonogatari/
+
 ## List
 
 |**Season**|**Resolution**|**Translation**|**Typesetting**|**Thanks to**|**Last Modified**|**Note**|
