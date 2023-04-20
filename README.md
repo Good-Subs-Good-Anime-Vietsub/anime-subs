@@ -1,7 +1,8 @@
 # Some Good Subtitles for Good Anime
 
 ## Muxing
-Sử dụng tab "Multiplexer" của [MKVToolNix](https://mkvtoolnix.download/) để mux sub và fonts cùng encode hay raw của bạn, nhớ phải cùng độ phân giải để tránh trường hợp phần Typeset bị lệch vị trí.
+- Sử dụng tab "Multiplexer" của [MKVToolNix](https://mkvtoolnix.download/) để mux sub và fonts cùng encode hay raw của bạn, nhớ phải cùng độ phân giải để tránh trường hợp phần Typeset bị lệch vị trí.
+- Ngoài ra có thể dùng [MKV Muxing Batch GUI](https://www.videohelp.com/software/MKV-Muxing-Batch-GUI) để thao tác trên nhiều file một lúc.
 
 ## Hướng dẫn xem
 Cực kỳ khuyến nghị xem bằng app có chạy [libass](https://github.com/libass/libass) làm subtitle renderer như là [mpv official](https://mpv.io/), là player miễn phí, nguồn mở, đa nền tảng và sử dụng command line để điều khiển cho nên phiên bản này không có GUI, nhưng vẫn có các bản có GUI:
