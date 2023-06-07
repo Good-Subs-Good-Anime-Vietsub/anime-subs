@@ -1,0 +1,119 @@
+﻿<?xml version="1.0"?>
+<!-- <!DOCTYPE Chapters SYSTEM "matroskachapters.dtd"> -->
+<Chapters>
+  <EditionEntry>
+    <EditionFlagHidden>0</EditionFlagHidden>
+    <EditionFlagDefault>1</EditionFlagDefault>
+    <EditionUID>15667432912986072361</EditionUID>
+    <ChapterAtom>
+      <ChapterUID>18359317985181119104</ChapterUID>
+      <ChapterTimeStart>00:00:00.000000000</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>00:26:52.277333333</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 01</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>8529496806786297404</ChapterUID>
+      <ChapterTimeStart>00:26:52.277333333</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>00:34:48.878458333</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 02</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>2893100370619953480</ChapterUID>
+      <ChapterTimeStart>00:34:48.878458333</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>00:45:59.214791666</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 03</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>18299668720316555089</ChapterUID>
+      <ChapterTimeStart>00:45:59.214791666</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>00:51:10.650916666</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 04</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>14785816732130414055</ChapterUID>
+      <ChapterTimeStart>00:51:10.650916666</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>01:02:12.937541666</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 05</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>8964118680069678103</ChapterUID>
+      <ChapterTimeStart>01:02:12.937541666</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>01:08:15.633208333</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 06</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1156848240822352609</ChapterUID>
+      <ChapterTimeStart>01:08:15.633208333</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>01:23:11.152833333</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 07</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>16764527025863334282</ChapterUID>
+      <ChapterTimeStart>01:23:11.152833333</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>01:31:38.075916666</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 08</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>1961149945145414996</ChapterUID>
+      <ChapterTimeStart>01:31:38.075916666</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>01:37:33.848000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 09</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+    <ChapterAtom>
+      <ChapterUID>14525393242451994032</ChapterUID>
+      <ChapterTimeStart>01:37:33.848000000</ChapterTimeStart>
+      <ChapterFlagHidden>0</ChapterFlagHidden>
+      <ChapterFlagEnabled>1</ChapterFlagEnabled>
+      <ChapterTimeEnd>01:37:34.849000000</ChapterTimeEnd>
+      <ChapterDisplay>
+        <ChapterString>Chapter 10</ChapterString>
+        <ChapterLanguage>jpn</ChapterLanguage>
+      </ChapterDisplay>
+    </ChapterAtom>
+  </EditionEntry>
+</Chapters>
