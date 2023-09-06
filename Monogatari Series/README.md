@@ -10,7 +10,7 @@ https://anime.kioz.workers.dev/0:/Monogatari%20Series/
 |--------|--------|--------|--------|--------|--------|--------|
 |**Bakemonogatari**|1920x1080|[KiOZ](https://github.com/realKiOZ)|[KiOZ](https://github.com/realKiOZ), [moch1oka](https://github.com/moch1oka), [Eagle](https://github.com/MasterEagle2909)|[MTBB](https://nyaa.si/view/1582135) (TS,Timing)|5/20/23 (Bake03,04: Đền-->Chùa, Bake11: SửaNhẹTS)|Cảm ơn [luudanmatcuoi](https://myanimelist.net/profile/luudanmatcuoi) đã hỗ trợ check chính tả|
 |**Kizumonogatari**|1920x1080|[KiOZ](https://github.com/realKiOZ)|[KiOZ](https://github.com/realKiOZ), [moch1oka](https://github.com/moch1oka), [Eagle](https://github.com/MasterEagle2909)|[MTBB](https://nyaa.si/view/1582135) (TS,Timing)|5/10/23||
-|**Nisemonogatari**|||Trung bình~Nặng|[MTBB](https://nyaa.si/view/1582135) (TS,Timing)|||
+|**Nisemonogatari**|1920x1080|[KiOZ](https://github.com/realKiOZ)|[KiOZ](https://github.com/realKiOZ), [moch1oka](https://github.com/moch1oka), [Eagle](https://github.com/MasterEagle2909)|[MTBB](https://nyaa.si/view/1582135) (TS,Timing)|9/06/23||
 |**Nekomonogatari (Kuro)**|||Trung bình~Nặng|[MTBB](https://nyaa.si/view/1582135) (TS,Timing)|||
 |**Nekomonogatari (Shiro)**|||Trung bình~Nặng|[MTBB](https://nyaa.si/view/1582135) (TS,Timing)|||
 |**Kabukimonogatari**|||Trung bình~Nặng|[MTBB](https://nyaa.si/view/1582135) (TS,Timing)|||
