@@ -10,3 +10,6 @@
 [submodule "Monogatari Series/Kizumonogatari"]
 	path = Monogatari Series/Kizumonogatari
 	url = https://github.com/Good-Subs-Good-Anime-Vietsub/Kizumonogatari
+[submodule "Monogatari Series/Nisemonogatari"]
+	path = Monogatari Series/Nisemonogatari
+	url = https://github.com/Good-Subs-Good-Anime-Vietsub/Nisemonogatari
