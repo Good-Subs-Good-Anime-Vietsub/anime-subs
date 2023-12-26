@@ -27,7 +27,7 @@ Phụ đề Tiếng Việt cho các movie của Ghibli/Pre-Ghibli
 |**(2011) Kokuriko-zaka Kara**|1920x1038|[KiOZ](https://github.com/realKiOZ)|Trung bình|Eagle (TS), THORA (TS,Timing)|||
 |**(2013) Kaze Tachinu**|||||||
 |**(2013) Kaguya-hime no Monogatari**||||||
-|**(2014) Omoide no Marnie**|1920x1080|[KiOZ](https://github.com/realKiOZ) (Chỉnh sửa từ Netflix)|Rất Nặng|||Nhìn chung Netflix dịch tốt|
+|**(2014) Omoide no Marnie**|1920x1080|[KiOZ](https://github.com/realKiOZ) (Chỉnh sửa từ Netflix)|Rất Nặng||26/12/2023(fix-lỗi-dịch-ED)|Nhìn chung Netflix dịch tốt|
 
 ## Download link (BDRip Softsub + NVEnc Hardsub)
 https://anime.kioz.workers.dev/0:/The%20Ghibli%20Collection%20(presented%20by%20KiOZ)/
